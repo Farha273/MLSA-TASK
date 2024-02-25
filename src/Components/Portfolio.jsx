@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "web apps",
     description:
-      " explain Azure Static Web Apps and tooling to get started.",
+      " explain Azure static Web Apps and tooling to get started.",
     url: "https://github.com/Farha273/MLSA-TASK",
   },
   {
